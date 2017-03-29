@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Look  Look</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_about">关于</string>
+    <string name="about_text" translatable="false">感谢对项目的支持和关注,项目会不断的升级更新,如果小主感兴趣欢迎一起来贡献,有好的想法也可以随时发email给我.</string>
+    <string name="email" translatable="false">vernon_zlb@163.com</string>
+
+    <string name="zhihu" translatable="false">知乎日报</string>
+    <string name="topnews" translatable="false">网易头条</string>
+    <string name="meizi" translatable="false">每日看看</string>
+
+
+</resources>

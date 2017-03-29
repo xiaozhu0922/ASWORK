@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tool_bg">#ff7a61</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="tab_bg">#e1ccd0</color>
+    <color name="white">#fcfcfc</color>
+    // tab默认的文字颜色
+    <color name="tabTextColor">#0d0d0d</color>
+    // 下方滚动的下划线颜色
+    <color name="tabIndicatorColor">#0d0d0d</color>
+    // tab被选中后，文字的颜色
+    <color name="tabSelectedTextColor">#b53f55</color>
+
+    <color name="red">#ff7a61</color>
+    <color name="black">#1b1b1b</color>
+</resources>
